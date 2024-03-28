@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.heading {
+    color: #690cb0;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.container {
+    background-image: linear-gradient(to bottom, #ffffff, #f2ebfe, #dac0ff);
+    
+    height:100vh;
+    width:100vw;
+}
+
+.image {
+    width: 70px;
+}
+
+.time {
+    font-size: 50px;
+}
+
+.secounds {
+    font-size: 20px;
+}
+
+.on-go {
+    font-size: 20px;
+    margin: 25px 0px;
+}
+
+textarea {
+    background-color: #f2ebfe;
+    border-color: #690cb0;
+    border-radius: 10px;
+    color: #323f4b;
+}
+
+.data {
+    font-size: 22px;
+    font-family: roboto;
+}
+
+.result {
+    font-size: 20px;
+    color: #3e4c59;
+}
+
+.submitbtn {
+    background-color: #690cb0;
+    color: #ffffff !important;
+    font-weight: 600;
+}
+
+.bg-white {
+    color: black !important;
+    font-weight: 600;
+}
+
+#spinner {
+    color: #690cb0 !important;
+}
